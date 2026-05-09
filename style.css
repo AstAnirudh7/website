@@ -1,0 +1,23 @@
+img {
+    width: 200px;
+}    
+body {
+    text-align: center;
+    font-family: 'Arial';
+    background-color: red;
+    color: black;
+}
+
+button {
+    background-color: orange;
+    color: white;
+    border: none;
+    padding: 12px 20px;
+    font-size: 18px;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: black;
+}
